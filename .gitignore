@@ -1,0 +1,7 @@
+.idea
+/target/
+/bin/
+/test-output/
+/TestDataFiles/
+/TestdataSheetsForExecution/
+/Application/
